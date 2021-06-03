@@ -16,21 +16,28 @@
 ## Installation
 
 Below is the deployed URL:
+
 https://mjlindskog.github.io/daily_planner/
 
 ## Usage
 
 Once the user has access to the URL , type desired text into desired hours and click the blue save button. Select text and clear it out or replace with new text to plan for next day.
-`md ![screenshot of 9-5 hourly scheduler](assets/img/Screenshot_daily_planner.png) ![GIF showing start screen and first question](/assets/img/Work_Day_Scheduler.gif) `
+![screenshot of 9-5 hourly scheduler](assets/img/Screenshot_daily_planner.png) ![GIF showing start screen and first question](/assets/img/Work_Day_Scheduler.gif)
 
 ## Credits
 
 https://www.youtube.com/watch?v=hMxGhHNOkCU -jQuery for beginners
+
 https://www.youtube.com/watch?v=n80RRNS1k64 -moment.js tutorial
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference - MDN was commonly referenced
+
 https://getbootstrap.com/docs/5.0/getting-started/introduction/ - helped with bootstrap components
+
 https://api.jquery.com/ - most referneced source of material
+
 https://www.w3schools.com/jquery/default.asp
+
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide - helped wiht the README guidelines
 
 ## License
