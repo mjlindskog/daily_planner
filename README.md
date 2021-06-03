@@ -1,4 +1,4 @@
-# A Simple Code Quiz
+# Work Day Planner
 
 ## Description
 
