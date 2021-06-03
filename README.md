@@ -4,7 +4,7 @@
 
 - Create a daily schedule that will color coordinate based on the hour of the day
 - Built so user can save agenda items that will be recalled when they return to the page
-- Allows users to pay their day either the prior day or that morning
+- Allows users to plan their work day either the prior day or that morning, items will remain on the page when refreshed if save button is selected.
 
 ## Table of Contents
 
