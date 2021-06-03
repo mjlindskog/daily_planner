@@ -1,4 +1,6 @@
 $(document).ready(function() {
+    // WHEN I open the planner
+    // THEN the current day is displayed at the top of the   calendar
     // Current time for jumbotron header
     var currentTime = moment();
     $(".currentDay").text(currentTime.format("dddd, MMMM Do"));
@@ -10,6 +12,9 @@ $(document).ready(function() {
         // matches real time with all IDs in HTML which are in <textarea>
         var timeSlot = parseInt(currentTime.format("H"));
         var listing = parseInt($(this).attr("id"));
+
+        // WHEN I view the timeblocks for that day
+        // THEN each timeblock is color coded to indicate whether it is in the past, present, or future
 
         // hours that have past within that day appear gray
         if(listing < timeSlot) {
@@ -25,6 +30,11 @@ $(document).ready(function() {
         if(listing > timeSlot) {
             $(this).addClass("future")
         }
+
+        // WHEN I click into a timeblock
+        // THEN I can enter an event
+        // WHEN I click the save button for that timeblock
+        // THEN the text for that event is saved in local storage
 
         // this is temporary, plan to condense, for now is functional
         $(save).click(function(event) {
@@ -51,6 +61,9 @@ $(document).ready(function() {
     var fifteenText = $("#15");
     var sixteenText = $("#16");
     var seventeenText = $("#17");
+
+    // WHEN I refresh the page
+    // THEN the saved events persist
 
     // this is in coordination with the setItem
     $(nineText).append(localStorage.getItem("9am"));
