@@ -22,7 +22,8 @@ https://mjlindskog.github.io/daily_planner/
 ## Usage
 
 Once the user has access to the URL , type desired text into desired hours and click the blue save button. Select text and clear it out or replace with new text to plan for next day.
-![screenshot of 9-5 hourly scheduler](assets/img/Screenshot_daily_planner.png) ![GIF showing start screen and first question](/assets/img/Work_Day_Scheduler.gif)
+
+![GIF showing 9-5 hourly breakdown with collor cordination](/assets/img/Work_Day_Scheduler.gif)
 
 ## Credits
 
