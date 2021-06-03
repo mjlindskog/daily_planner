@@ -2,7 +2,7 @@
 
 ## Description
 
-- Work with preexisting CSS to create a daily schedule that will color coordinate based on the hour of the day
+- Create a daily schedule that will color coordinate based on the hour of the day
 - Built so user can save agenda items that will be recalled when they return to the page
 - Allows users to pay their day either the prior day or that morning
 
@@ -39,7 +39,7 @@ https://api.jquery.com/ - most referneced source of material
 
 https://www.w3schools.com/jquery/default.asp
 
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide - helped wiht the README guidelines
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide - helped with the README guidelines
 
 ## License
 
